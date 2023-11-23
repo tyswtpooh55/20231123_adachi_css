@@ -25,6 +25,7 @@ a {
 }
 
 .header__right--list {
+    list-style: none;
     display: flex;
     font-weight: bold;
     font-size: 18px;
